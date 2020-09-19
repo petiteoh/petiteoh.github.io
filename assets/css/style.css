@@ -446,12 +446,12 @@ header{
 }
 
 .row {
-	display: flex;
-	justify-content: flex-start;
+	/* display: flex;
+	justify-content: flex-start; */
 }
 
-.col-sm-6 {
-	/* justify-items: center; */
+.moreDetails {
+	padding-left: 30%;
 }
 
 .moreDetails {
